@@ -95,6 +95,9 @@ img{
       display: flex;
       flex-direction: column;
     }
+    .score-board{
+        gap:7rem;
+    }
     
   }
 
