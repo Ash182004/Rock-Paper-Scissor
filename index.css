@@ -90,7 +90,7 @@ img{
     opacity: 0.8;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 800px) {
     .Box2{
       display: flex;
       flex-direction: column;
